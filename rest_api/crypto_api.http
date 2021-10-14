@@ -1,0 +1,3 @@
+GET {{baseUrl}}/assets
+Accept: application/json
+X-CoinAPI-Key: {{apiKey}}
